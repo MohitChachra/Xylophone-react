@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Xylophone-react/static/css/main.7d97be78.chunk.css",
+    "main.js": "/Xylophone-react/static/js/main.112c68e2.chunk.js",
+    "main.js.map": "/Xylophone-react/static/js/main.112c68e2.chunk.js.map",
+    "runtime-main.js": "/Xylophone-react/static/js/runtime-main.3c0f079b.js",
+    "runtime-main.js.map": "/Xylophone-react/static/js/runtime-main.3c0f079b.js.map",
+    "static/js/2.8b1a72a2.chunk.js": "/Xylophone-react/static/js/2.8b1a72a2.chunk.js",
+    "static/js/2.8b1a72a2.chunk.js.map": "/Xylophone-react/static/js/2.8b1a72a2.chunk.js.map",
+    "index.html": "/Xylophone-react/index.html",
+    "precache-manifest.0f89bce704d4fdf40083a09dccf31eb3.js": "/Xylophone-react/precache-manifest.0f89bce704d4fdf40083a09dccf31eb3.js",
+    "service-worker.js": "/Xylophone-react/service-worker.js",
+    "static/css/main.7d97be78.chunk.css.map": "/Xylophone-react/static/css/main.7d97be78.chunk.css.map",
+    "static/js/2.8b1a72a2.chunk.js.LICENSE.txt": "/Xylophone-react/static/js/2.8b1a72a2.chunk.js.LICENSE.txt",
+    "static/media/a.wav": "/Xylophone-react/static/media/a.424eb0c2.wav",
+    "static/media/b.wav": "/Xylophone-react/static/media/b.b0963b9b.wav",
+    "static/media/c.wav": "/Xylophone-react/static/media/c.98ddcc4f.wav",
+    "static/media/c2.wav": "/Xylophone-react/static/media/c2.8118569e.wav",
+    "static/media/d1.wav": "/Xylophone-react/static/media/d1.90104779.wav",
+    "static/media/e1.wav": "/Xylophone-react/static/media/e1.48ef3003.wav",
+    "static/media/f.wav": "/Xylophone-react/static/media/f.e3597a14.wav",
+    "static/media/g.wav": "/Xylophone-react/static/media/g.433c4567.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c0f079b.js",
+    "static/js/2.8b1a72a2.chunk.js",
+    "static/css/main.7d97be78.chunk.css",
+    "static/js/main.112c68e2.chunk.js"
+  ]
+}
